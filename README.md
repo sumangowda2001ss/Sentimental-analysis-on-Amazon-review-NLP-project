@@ -1,0 +1,1 @@
+Sentiment Analysis on Amazon Reviews. Our model will review the review is positive or negetive. based on feedback column Feedback 1 means people gives the feedback 0 means people not gives the feedback.
